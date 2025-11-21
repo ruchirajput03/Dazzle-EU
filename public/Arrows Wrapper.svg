@@ -1,0 +1,42 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3_5)">
+<rect y="20.2936" width="28" height="28" rx="14" transform="rotate(-46.4498 0 20.2936)" fill="black"/>
+<g clip-path="url(#clip1_3_5)">
+<g clip-path="url(#clip2_3_5)">
+<g clip-path="url(#clip3_3_5)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.2046 17.6543L16.8693 17.7637L16.8465 16.8641L22.7179 16.7155L22.8662 22.5873L21.967 22.6097L21.8569 18.2744L17.3213 23.0456L16.669 22.4255L21.2046 17.6543Z" fill="white"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip4_3_5)">
+<g clip-path="url(#clip5_3_5)">
+<g clip-path="url(#clip6_3_5)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.4982 36.9461L37.1629 37.0555L37.1401 36.1559L43.0115 36.0073L43.1598 41.879L42.2605 41.9015L42.1505 37.5662L37.6148 42.3374L36.9625 41.7173L41.4982 36.9461Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3_5">
+<rect y="20.2936" width="28" height="28" rx="14" transform="rotate(-46.4498 0 20.2936)" fill="white"/>
+</clipPath>
+<clipPath id="clip1_3_5">
+<rect width="9" height="9" fill="white" transform="translate(13.4308 19.9536) rotate(-46.4498)"/>
+</clipPath>
+<clipPath id="clip2_3_5">
+<rect width="9" height="9" fill="white" transform="translate(13.4308 19.9536) rotate(-46.4498)"/>
+</clipPath>
+<clipPath id="clip3_3_5">
+<rect width="8.55" height="9" fill="white" transform="translate(13.5856 19.7908) rotate(-46.4498)"/>
+</clipPath>
+<clipPath id="clip4_3_5">
+<rect width="9" height="9" fill="white" transform="translate(33.7244 39.2454) rotate(-46.4498)"/>
+</clipPath>
+<clipPath id="clip5_3_5">
+<rect width="9" height="9" fill="white" transform="translate(33.7244 39.2454) rotate(-46.4498)"/>
+</clipPath>
+<clipPath id="clip6_3_5">
+<rect width="8.55" height="9" fill="white" transform="translate(33.8792 39.0825) rotate(-46.4498)"/>
+</clipPath>
+</defs>
+</svg>
