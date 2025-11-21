@@ -635,21 +635,18 @@ const page = () => {
             <div className="bg-black shadow-md">
               <p className="pt-10 text-center text-[40px] font-[bb] text-[#FFFFFF] max-w-2xl mx-auto uppercase! leading-tight">We are exited to learn more about your project</p>
               <p className="text-center text-[20px] font-[md] text-[#FFFFFF] max-w-lg mx-auto  leading-tight p-0 m-0">Become a member now and start your journey toward mastering the perfect swing!</p>
-              <div className="flex justify-center pt-4">
-              <button className="p-0 m-0 mb-8 ">
-            <span className="rounded-full border text-[11px]! font-[bb] flex text-[#FFFFFF] text-center px-2 py-2  gap-2 ">GET IN TOUCH
-
-            <Image
-              src="/svg/scroll/Arrows Wrapper.svg"
-              alt="arrow"
-              width={1080}
-              height={1080}
-              className="w-6 h-5"
-              />
-            </span>
-
-              </button>
-              </div>
+             <div className="flex justify-center pt-4 pb-3 ">
+                        <button className="flex items-center border text-white !rounded-full gap-2  py-1 mb-4 pl-3  pr-1  ">
+                          GET IN TOUCH{" "}
+                          <Image
+                            src="/svg/scroll/Arrows Wrapper.svg"
+                            alt="arrow"
+                            width={1080}
+                            height={1080}
+                            className="w-6 h-6 "
+                          />
+                        </button>
+                      </div>
              
 
             </div>

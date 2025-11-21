@@ -1,5 +1,5 @@
 // components/Footer.jsx
-
+import Link from "next/link";
 export default function Footer() {
     return (
       <footer className="bg-black! text-white  text-sm lg:px-20 px-5 lg:pt-20 lg:pb-[20]">
@@ -10,7 +10,7 @@ export default function Footer() {
             <h3 className="font-semibold text-lg mb-4">Dazzle</h3>
             <ul className="space-y-2 opacity-80 p-0 m-0">
               <li>Home</li>
-              <li>About Us</li>
+              <Link href="/aboutus" className="!no-underline text-[#FFFFFF]! p-0 m-0">About Us</Link>
               <li>Portfolio</li>
               <li>Clients</li>
               <li>Career</li>

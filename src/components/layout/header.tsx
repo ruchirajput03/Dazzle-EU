@@ -26,7 +26,7 @@ export default function Header() {
           {/* Navigation */}
           <nav className="hidden md:flex items-center text-[14px] font-[md]  space-x-10">
             <Link
-              href="#"
+              href="/"
               className=" !text-[#141414] hover:text-gray-900  !no-underline"
             >
               Home
@@ -38,7 +38,7 @@ export default function Header() {
               Company
             </Link>
             <Link
-              href="#"
+              href="/service"
               className=" !text-[#141414] hover:text-gray-900 !no-underline"
             >
               Solutions
